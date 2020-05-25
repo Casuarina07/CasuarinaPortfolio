@@ -201,6 +201,7 @@ li{
     width: 100%;
     text-align: center;
     z-index: 1;
+    overflow: hidden;
 }
 
 .landing-text h1{
@@ -365,6 +366,11 @@ li{
 /*End services*/
 
 /*Start timeline*/
+.timeline {
+    position: relative;
+    margin-left: 50px;
+}
+
 .timeline ul{
     border-left: 4px solid #ffe838;
     border-radius: .8rem;
@@ -617,6 +623,7 @@ input[type="submit"]:hover{
         margin: 0;
         order: 2;
     }
+
 
     .timeline p{
         font-size: 1.6rem;
