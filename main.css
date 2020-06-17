@@ -46,7 +46,7 @@ img{
     margin: 0 auto;
     position: relative;
     overflow-x:hidden;  
-    
+    overflow-y:hidden; 
 }
 
 .section-heading{
