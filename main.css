@@ -530,7 +530,7 @@ input[type="submit"]:hover{
     }
 
     .landing-text h1{
-        font-size: 15rem;
+        font-size: 12rem;
     }
 
     .landing-text h6{
@@ -547,6 +547,10 @@ input[type="submit"]:hover{
 
     .nav-link{
         font-size: 4.5rem;
+    }
+
+    .social-media li {
+        margin-left: 1rem;
     }
 
     .about-heading h1{
